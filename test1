@@ -2,6 +2,7 @@ change 1
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 made a change
@@ -18,3 +19,8 @@ made a change
 =======
 >>>>>>> ddca519 (new feature in branch)
 >>>>>>> 706ccd1 (change in test1 in branch)
+=======
+made a change
+=======
+>>>>>>> ddca519 (new feature in branch)
+>>>>>>> branch2
